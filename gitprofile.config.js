@@ -11,22 +11,22 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'brashon-ford',
+    twitter: '',
+    mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'brashonf',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'brashonford@gmail.com',
   },
   resume: {
     fileUrl:
@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Baylor University',
+      degree: 'Bachelor of Arts',
+      from: '2016',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'National University',
+      degree: 'MBA',
+      from: '2021',
+      to: '2023',
     },
   ],
 
@@ -106,8 +106,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -133,7 +133,7 @@ const config = {
     hideAvatarRing: false,
 
     // Available themes. To remove any theme, exclude from here.
-    themes: [
+    themes: [ 
       'light',
       'dark',
       'cupcake',
