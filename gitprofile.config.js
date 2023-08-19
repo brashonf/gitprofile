@@ -90,9 +90,9 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Data Science Assignment',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'I will be including some of my assignments that I worked on during my program.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
