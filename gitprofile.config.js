@@ -134,15 +134,6 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [ 
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
       'valentine',
       'halloween',
       'garden',
